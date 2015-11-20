@@ -1,0 +1,50 @@
+{
+  "name": "system-wasp-shader",
+  "version": "0.1.0",
+  "description": "Shader loader plugin for system.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Globegitter/system-shader.git"
+  },
+  "keywords": [
+    "systemjs",
+    "shader",
+    "webgl",
+    "vertex",
+    "loader"
+  ],
+  "author": {
+    "name": "Markus Padourek"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Globegitter/system-shader/issues"
+  },
+  "homepage": "https://github.com/Globegitter/system-shader#readme",
+  "gitHead": "6e76b6b6b761701f7b0f26ffe8ed51a40a8d0383",
+  "_id": "system-shader@0.1.0",
+  "_shasum": "0db7898144e94136a142a754dcc36f4777700b31",
+  "_from": "system-shader@*",
+  "_npmVersion": "3.2.1",
+  "_nodeVersion": "3.0.0",
+  "_npmUser": {
+    "name": "globegitter",
+    "email": "markus.padourek@gmail.com"
+  },
+  "dist": {
+    "shasum": "0db7898144e94136a142a754dcc36f4777700b31",
+    "tarball": "http://registry.npmjs.org/system-shader/-/system-shader-0.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "globegitter",
+      "email": "markus.padourek@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/system-shader/-/system-shader-0.1.0.tgz"
+}
